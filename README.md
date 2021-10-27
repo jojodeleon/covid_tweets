@@ -1,2 +1,1 @@
-# covid_tweets
-Evaluating tweets concerning COVID-19
+# Classifying Tweets COVID-19 Tweets
