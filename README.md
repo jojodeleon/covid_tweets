@@ -1,6 +1,6 @@
 # Classifying Tweets COVID-19 Tweets
 
-![](coronavirus.jpg)
+![](Graphs_and_Visuals/coronavirus.jpg)
 
 ## Business Problem
 Augment Twitter's in-house Data Science department's predictive modeling for flagging tweets. The objective is to create an auxiliary model for flagging misleading tweets.  As Twitter's in-house department concentrates on data obtained from tweets themselves, the aim is to investigate factual and fictional news headlines to build a complementary model for evaluating tweets.
