@@ -3,7 +3,7 @@
 ![](coronavirus.jpg)
 
 ## Business Problem
-Augment Twitter's in-house Data Science department'S predictive modeling for flagging tweets. The objective is to create an auxiliary model for flagging misleading tweets.  As Twitter's in-house department concentrates on data obtained from tweets themselves, the aim is to investigate factual and fictional news headlines to build a complementary model for evaluating tweets.
+Augment Twitter's in-house Data Science department's predictive modeling for flagging tweets. The objective is to create an auxiliary model for flagging misleading tweets.  As Twitter's in-house department concentrates on data obtained from tweets themselves, the aim is to investigate factual and fictional news headlines to build a complementary model for evaluating tweets.
 
 Several datasets were combined to diversify what the model would see.  Two datasets are COVID misinformation datasets - one compiled by Zenodo, a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. The other compiled by Empirical Studies of Conflict, a Princeton and Stanford research project. The other two datasets are from Kaggle. One composed of headlines from The Huffington Post and The Onion which is to say it contains factual and sarcastic headlines. The other is a dataset of real and fake headlines from various news outlets.  
 
