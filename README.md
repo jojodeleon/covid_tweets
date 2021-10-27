@@ -13,10 +13,7 @@ Twint was used to obtain tweets from February through September of 2021 with the
 
 ![]()
 Of the most frequent words found in these tweets, it is of note that people were heavily focused on vaccines and the vaccinated. This is further reinforced by the oft used words cases, deaths, health, shot and boosters. 
-
-![](Graphs_and_Visuals/fake_misinfo_wordcloud.png)
-![](Graphs_and_Visuals/tweet_wordcloud.png)
-
+![](Graphs_and_Visuals/fake_misinfo_wordcloud.png)![](Graphs_and_Visuals/tweet_wordcloud.png)
 These word clouds were generated using the 25 most frequent words found in each. Notice that the overlap found between them is in the words people and vaccine reinforcing the observation found when solely looking at COVID tweets. Additionally of note is the presence of Facebook in the misinformation headlines. Although Twitter and WhatsApp are also encountered in the misinformation headlines, Facebook is more than two and a half times more prevalent than these other messaging apps.  
 
 
